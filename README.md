@@ -8,6 +8,6 @@
 
 - This likey *won't* be updated.
 
-- The GoGuardian extension is need to view most things.
+- The GoGuardian extension is needed to view most things.
 
 - Maybe they should encrypt or obfuscate their script names, LOL.
