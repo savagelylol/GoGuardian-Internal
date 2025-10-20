@@ -1,0 +1,1 @@
+chrome-extension://haldlgldplgnggkjaafhelgiaglafanh/lock.html
