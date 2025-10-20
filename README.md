@@ -4,8 +4,10 @@
 - And I **will not** accept a DMCA request.
 
 # NOTES
-**I AM NOT RESPONSIBLE FOR ANY VULNERABILITIES FOUND AND EXPLOITED BY ANY USER OR COMES ACROSS THIS REPO.**
+- **I AM NOT RESPONSIBLE FOR ANY VULNERABILITIES FOUND AND EXPLOITED BY ANY USER OR COMES ACROSS THIS REPO.**
 
-This likey *won't* be updated.
+- This likey *won't* be updated.
 
-Maybe they should encrypt or obfuscate their script names, LOL.
+- The GoGuardian extension is need to view most things.
+
+- Maybe they should encrypt or obfuscate their script names, LOL.
